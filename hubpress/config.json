@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "nobodysplace",
-    "repositoryName": "nobodysplace.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"nobodysplace","repositoryName":"nobodysplace.github.io","branch":"master"},"site":{"url":"https://nobodysplace.github.io"},"socialnetwork":{"linkedin":"https://www.xing.com/profile/Patrick_Fischer112","github":"https://github.com/nobodysplace"},"theme":{"name":"Casper","url":"//nobodysplace.github.io/themes/Casper"}}
