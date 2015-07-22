@@ -1,3 +1,0 @@
-= Liebes Tagebuch
-:published_at: 2015-02-20
-_Hello_ zum ersten Eintrag auf meinem Blog
